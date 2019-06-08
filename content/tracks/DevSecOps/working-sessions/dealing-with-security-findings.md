@@ -23,9 +23,14 @@ description  : How to deal with the security findings in an appsec pipeline and 
 
 Security testing is vital to validate the correct implementation of controls and that security requirements. To scale securty testing to often hundreds of different software products, many organisations now implement automated tools to scale security testing practices. In this hands-on working session we'll learn how to build a working DevSecOps POC and, more importantly, how to deal with the myriad of security findings it generates.
 
-Schedule:
-- Slot 1 (AM1) - Architectiure and Setup
-- Slot 2 (PM2) - Objectives and Chellenges
+## Git Repository
+
+- https://github.com/frannovo/dwdsof
+
+## Schedule
+
+- Slot 1 (AM1) - Architecture and Setup
+- Slot 2 (PM2) - Objectives and Challenges
 - Slot 3 (PM3) - Outcomes
 
 ## Why
